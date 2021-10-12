@@ -37,7 +37,7 @@ export default {
       pokemon: null,
       pokemons: [],
       showPokemon: false,
-      showAnswer: '',
+      showAnswer: false,
       message: '',
     };
   },
